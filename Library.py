@@ -102,5 +102,5 @@ def main():
         print(f"All previous data in CSV has been replaced.")
         print("="*40)
 
-if name == "main":
+if __name__ == "__main__":
     main()
